@@ -1,7 +1,9 @@
-🕹️ Souls-Like Third-Person Game Scripts
+**🕹️ Souls-Like Third-Person Game Scripts**
+
 Welcome to the repository for Souls-Like Third-Person Game Scripts! This collection contains modular and reusable scripts designed for creating gameplay mechanics reminiscent of the Souls-like genre.
 
-🚀 Features
+**🚀 Features**
+
 Third-Person Movement: Smooth and responsive character movement with camera control.
 Combat Mechanics: Stamina-based attacks, dodging, parrying, and blocking.
 Enemy AI: Intelligent enemies with behavior trees and attack patterns.
